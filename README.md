@@ -3,6 +3,8 @@
 📄 Vue 3 Posts App
 A Vue 3-based Single Page Application that fetches and displays posts with modern features like infinite scrolling, route caching, and smooth navigation. Built using Pinia, Vue Router, Tailwind CSS, and best practices around UI/UX enhancements.
 
+Visit : **https://postify-phi-tan.vercel.app/**
+
 🛠️ Tech Stack
 Vue 3
 Pinia (state management)
